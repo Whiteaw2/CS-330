@@ -16,6 +16,7 @@ I worked through successive builds of functionality, revising my approach over t
 
 It is critical in all projects to identify bottlenecks for performance and code readability/maintainability, some of the techniques I applied in this project will enable me to think more holistically when developing complex solutions in the future. Also, the skills I've developed in OpenGL have direct applicability to real-time visualization and interactions that will be relevant as the XR ecosystem continues to grow. 
 
+
 **How do I approach developing programs?**
 
 *What new development strategies did you use while working on your 3D scene?*
@@ -29,6 +30,7 @@ As mentioned previously, iteration in the project was key to addressing the chan
 *How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?*
 
 My approach to developing code continued to flex as the needs of the project changed. While I was primarily concerned with delivering the core features, I also took extra care to abstract and simplify recurring processes in the codebase. It was also helpful to continue refining my understanding of C++ syntax.
+
 
 **How can computer science help me in reaching my goals?**
 Computer science is an ever-expanding field which impacts every factor of our lives. Even the simplest devices have firmware at the least, and they can control everything from the cars we drive to the shuttles we fly into space. It's critical to continue growing my skills in these areas, identifying my growth opportunities and developing my understanding of new concepts and trends. Mastering computer science can pave the way for powerful personal and professional growth.
