@@ -2,6 +2,7 @@
 Computer Graphics and Visualization with OpenGL
 
 **How do I approach designing software?**
+
 One of the most important parts of approaching any problem is taking stock of the required features and requirements. After I've created a clear list of all requirements and features, I will consider the general architecture, languages, libraries, and any additional requirements that may not have been explicitly expressed by the client, but which will be required for success such as network security considerations. From this point, it's important to think about what dependencies exist between and outside of the classes in the architecture, and to identify additional requirements or considerations. Next, outlining several UML documents and reviewing them with the client ensures that I reduce the chance of missing requirements. Then, once requirements are fully understood, I will begin prototyping and stubbing out the program, ensuring that unit test cases or other needs are met and maintained throughout development, including the need to do user testing.
 
 *What new design skills has your work on the project helped you to craft?*
@@ -33,6 +34,7 @@ My approach to developing code continued to flex as the needs of the project cha
 
 
 **How can computer science help me in reaching my goals?**
+
 Computer science is an ever-expanding field which impacts every factor of our lives. Even the simplest devices have firmware at the least, and they can control everything from the cars we drive to the shuttles we fly into space. It's critical to continue growing my skills in these areas, identifying my growth opportunities and developing my understanding of new concepts and trends. Mastering computer science can pave the way for powerful personal and professional growth.
 
 *How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?*
